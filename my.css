@@ -1,0 +1,22 @@
+h1{
+color: red;
+}
+div {
+  float: left;
+  width: 300px;
+  height: 510px;
+  border: 3.5px solid black;
+  padding: 20px;
+  margin: 40px;
+}
+#column1 {
+  background-color: orange;
+}
+
+#column2 {
+  background-color: lightblue;
+  
+}
+#column3 {
+background-color: #f497f1; 
+}
